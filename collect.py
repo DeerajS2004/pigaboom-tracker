@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 from datetime import datetime
 import os
 
-URL = "https://game.pigaboom.com/flutter/bie/?sessionToken=ab613089-5176-4ea1-91a0-7e4932b8f98c&locale=en&homeUrl=https:%2F%2Fplayinjeet.com&currency=INR&operatorId=2"
+URL = "https://game.pigaboom.com/flutter/bie/?sessionToken=23a8bfb6-4a8a-486a-be4d-39adca52592e&locale=en&homeUrl=https:%2F%2Fplayinjeet.com&currency=INR&operatorId=2"
 
 with sync_playwright() as p:
 
